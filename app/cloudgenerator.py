@@ -7,7 +7,7 @@ import os
 
 
 def createWordCloud(config):
-    # create file path to write json
+    # create file path to save png
     script_dir = os.path.dirname(__file__)
     rel_path = 'results/' + config['name'] + '.png'
     abs_file_path = os.path.join(script_dir, rel_path)
