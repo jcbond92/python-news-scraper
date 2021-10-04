@@ -1,0 +1,509 @@
+[
+  {
+    "textData": "BILLIONS HIDDEN BEYOND REACH",
+    "analysis": { "neg": 0.0, "neu": 0.732, "pos": 0.268, "compound": 0.0258 }
+  },
+  {
+    "textData": "As his country struggles, King Abdullah of Jordan secretly splurges on lavish homes in the U.S. and Britain",
+    "analysis": { "neg": 0.128, "neu": 0.872, "pos": 0.0, "compound": -0.3612 }
+  },
+  {
+    "textData": "Secret money, swanky real estate and a Monte Carlo mystery",
+    "analysis": { "neg": 0.0, "neu": 1.0, "pos": 0.0, "compound": 0.0 }
+  },
+  {
+    "textData": "Trump, talked out of announcing a 2024 bid yet, settles on a wink-and-nod unofficial candidacy",
+    "analysis": { "neg": 0.0, "neu": 1.0, "pos": 0.0, "compound": 0.0 }
+  },
+  {
+    "textData": "Schumer says debt ceiling must be addressed \u2018by the end of this week\u2019 as crisis date nears",
+    "analysis": { "neg": 0.306, "neu": 0.694, "pos": 0.0, "compound": -0.765 }
+  },
+  {
+    "textData": "The Postal Service is testing paycheck cashing, which could transform how millions access money and pay bills",
+    "analysis": { "neg": 0.08, "neu": 0.92, "pos": 0.0, "compound": -0.1027 }
+  },
+  {
+    "textData": "The Biden administration takes aim at Big Chicken. But its goose might not yet be cooked.",
+    "analysis": { "neg": 0.0, "neu": 1.0, "pos": 0.0, "compound": 0.0 }
+  },
+  {
+    "textData": "Alabama spends more than a half-million dollars a year on a Confederate memorial. Black historical sites struggle to keep their doors open.",
+    "analysis": { "neg": 0.113, "neu": 0.887, "pos": 0.0, "compound": -0.3182 }
+  },
+  {
+    "textData": "Tom Brady is hardly ever uncomfortable. His return to New England was.",
+    "analysis": { "neg": 0.174, "neu": 0.826, "pos": 0.0, "compound": -0.323 }
+  },
+  {
+    "textData": "This little-known but surprisingly powerful government office should be more transparent",
+    "analysis": { "neg": 0.0, "neu": 0.581, "pos": 0.419, "compound": 0.7579 }
+  },
+  {
+    "textData": "Chuck Grassley favors term limits. Just not for himself.",
+    "analysis": { "neg": 0.0, "neu": 0.8, "pos": 0.2, "compound": 0.25 }
+  },
+  {
+    "textData": "The revelations about Mike Pence\u2019s role in Jan. 6 keep getting worse",
+    "analysis": { "neg": 0.237, "neu": 0.763, "pos": 0.0, "compound": -0.4767 }
+  },
+  {
+    "textData": "Three bad takes about Biden and his agenda",
+    "analysis": { "neg": 0.333, "neu": 0.667, "pos": 0.0, "compound": -0.5423 }
+  },
+  {
+    "textData": "Democrats aren\u2019t spending too much money. But are they spending it well?",
+    "analysis": { "neg": 0.0, "neu": 0.806, "pos": 0.194, "compound": 0.3919 }
+  },
+  {
+    "textData": "Progressives finally have power in Washington",
+    "analysis": { "neg": 0.0, "neu": 1.0, "pos": 0.0, "compound": 0.0 }
+  },
+  {
+    "textData": "Congress shouldn\u2019t help China surpass the U.S. in technology leadership",
+    "analysis": { "neg": 0.0, "neu": 0.769, "pos": 0.231, "compound": 0.4019 }
+  },
+  {
+    "textData": "The Supreme Court\u2019s crisis of legitimacy",
+    "analysis": { "neg": 0.35, "neu": 0.342, "pos": 0.308, "compound": -0.128 }
+  },
+  {
+    "textData": "U.S. Navy hit by another international bribery scandal",
+    "analysis": { "neg": 0.293, "neu": 0.707, "pos": 0.0, "compound": -0.4404 }
+  },
+  {
+    "textData": "U.S. is \u2018turning the corner\u2019 on  latest pandemic surge, Fauci says",
+    "analysis": { "neg": 0.0, "neu": 1.0, "pos": 0.0, "compound": 0.0 }
+  },
+  {
+    "textData": "Across Kabul, evidence of Afghanistan\u2019s fast-unraveling economy under the Taliban is everywhere",
+    "analysis": { "neg": 0.0, "neu": 1.0, "pos": 0.0, "compound": 0.0 }
+  },
+  {
+    "textData": "Todd Akin, whose \u2018legitimate rape\u2019 comment torpedoed his U.S. Senate bid, dies at 74",
+    "analysis": { "neg": 0.0, "neu": 1.0, "pos": 0.0, "compound": 0.0 }
+  },
+  {
+    "textData": "Leadership questions loom over Federal Reserve amid slowing recovery",
+    "analysis": { "neg": 0.192, "neu": 0.808, "pos": 0.0, "compound": -0.2263 }
+  },
+  {
+    "textData": "A man splattered paint on George Floyd bust in New York City\u2019s Union Square. It\u2019s the second time it\u2019s been vandalized.",
+    "analysis": { "neg": 0.0, "neu": 1.0, "pos": 0.0, "compound": 0.0 }
+  },
+  {
+    "textData": "Nobel Prize in medicine awarded to two U.S.-based scientists \u2018for their discoveries of receptors for temperature and touch\u2019",
+    "analysis": { "neg": 0.0, "neu": 0.727, "pos": 0.273, "compound": 0.7184 }
+  },
+  {
+    "textData": "Former Facebook employee Frances Haugen reveals herself as \u2018whistleblower\u2019 behind tens of thousands of leaked documents",
+    "analysis": { "neg": 0.133, "neu": 0.867, "pos": 0.0, "compound": -0.3182 }
+  },
+  {
+    "textData": "As summer surge begins to ebb, coronavirus death toll nears 700,000",
+    "analysis": { "neg": 0.281, "neu": 0.719, "pos": 0.0, "compound": -0.5994 }
+  },
+  {
+    "textData": "Tracking vaccinations, state by state",
+    "analysis": { "neg": 0.0, "neu": 1.0, "pos": 0.0, "compound": 0.0 }
+  },
+  {
+    "textData": "As students with long-haul covid return to school, many districts don\u2019t fully know how to help",
+    "analysis": { "neg": 0.0, "neu": 0.847, "pos": 0.153, "compound": 0.4019 }
+  },
+  {
+    "textData": "Tracking cases and deaths in the U.S.",
+    "analysis": { "neg": 0.0, "neu": 1.0, "pos": 0.0, "compound": 0.0 }
+  },
+  {
+    "textData": "You\u2019re going to be asked to prove your vaccination status. Here\u2019s how to do it.",
+    "analysis": { "neg": 0.0, "neu": 1.0, "pos": 0.0, "compound": 0.0 }
+  },
+  {
+    "textData": "Back in the classroom, teachers find that pandemic technology has changed their jobs forever",
+    "analysis": { "neg": 0.0, "neu": 1.0, "pos": 0.0, "compound": 0.0 }
+  },
+  {
+    "textData": "So you want to give acupuncture a try. How do you pick a provider?",
+    "analysis": { "neg": 0.0, "neu": 0.875, "pos": 0.125, "compound": 0.1477 }
+  },
+  {
+    "textData": "South Pole posts most severe cold season on record, a surprise in a warming world",
+    "analysis": {
+      "neg": 0.174,
+      "neu": 0.603,
+      "pos": 0.223,
+      "compound": -0.0498
+    }
+  },
+  {
+    "textData": "Firefighters are trying to keep sequoias around through their 3,000th birthdays. Here\u2019s how.",
+    "analysis": { "neg": 0.0, "neu": 1.0, "pos": 0.0, "compound": 0.0 }
+  },
+  {
+    "textData": "The price of living near the shore is already high. It\u2019s about to go through the roof.",
+    "analysis": { "neg": 0.0, "neu": 1.0, "pos": 0.0, "compound": 0.0 }
+  },
+  {
+    "textData": "Climate change may harm future of Georgia\u2019s succulent state symbol, the peach",
+    "analysis": { "neg": 0.241, "neu": 0.759, "pos": 0.0, "compound": -0.5423 }
+  },
+  {
+    "textData": "Billions hidden beyond reach",
+    "analysis": { "neg": 0.0, "neu": 0.732, "pos": 0.268, "compound": 0.0258 }
+  },
+  {
+    "textData": "Trump, talked out of announcing a 2024 bid for now, settles on a wink-and-nod unofficial candidacy",
+    "analysis": { "neg": 0.0, "neu": 1.0, "pos": 0.0, "compound": 0.0 }
+  },
+  {
+    "textData": "The revelations about Mike Pence\u2019s role in Jan. 6 keep getting worse",
+    "analysis": { "neg": 0.237, "neu": 0.763, "pos": 0.0, "compound": -0.4767 }
+  },
+  {
+    "textData": "Secret money, swanky real estate and a Monte Carlo mystery",
+    "analysis": { "neg": 0.0, "neu": 1.0, "pos": 0.0, "compound": 0.0 }
+  },
+  {
+    "textData": "Tom Brady is hardly ever uncomfortable. His return to New England was.",
+    "analysis": { "neg": 0.174, "neu": 0.826, "pos": 0.0, "compound": -0.323 }
+  },
+  {
+    "textData": "Liberals split over price tag on infrastructure spending",
+    "analysis": { "neg": 0.0, "neu": 1.0, "pos": 0.0, "compound": 0.0 }
+  },
+  {
+    "textData": "Trump wanted to announce his 2024 reelection campaign in August",
+    "analysis": { "neg": 0.0, "neu": 1.0, "pos": 0.0, "compound": 0.0 }
+  },
+  {
+    "textData": "Congress isn\u2019t as clueless about Facebook as it seems",
+    "analysis": { "neg": 0.238, "neu": 0.762, "pos": 0.0, "compound": -0.3612 }
+  },
+  {
+    "textData": "Kevin McCarthy\u2019s claim that Biden\u2019s plan will raise taxes on families making over $50,000",
+    "analysis": { "neg": 0.0, "neu": 1.0, "pos": 0.0, "compound": 0.0 }
+  },
+  {
+    "textData": "Immigration activists follow Sinema into bathroom, demanding action on reconciliation bill",
+    "analysis": { "neg": 0.16, "neu": 0.84, "pos": 0.0, "compound": -0.2263 }
+  },
+  {
+    "textData": "The health policy budget battles to come",
+    "analysis": { "neg": 0.302, "neu": 0.698, "pos": 0.0, "compound": -0.3818 }
+  },
+  {
+    "textData": "\u2018The coup didn\u2019t work\u2019 is not a reassuring argument",
+    "analysis": {
+      "neg": 0.218,
+      "neu": 0.579,
+      "pos": 0.204,
+      "compound": -0.0382
+    }
+  },
+  {
+    "textData": "Thousands of Brazilians take to streets, calling for Bolsonaro to be impeached",
+    "analysis": { "neg": 0.0, "neu": 1.0, "pos": 0.0, "compound": 0.0 }
+  },
+  {
+    "textData": "Provocative Swedish cartoonist hunted by al-Qaeda dies in a car crash",
+    "analysis": { "neg": 0.231, "neu": 0.769, "pos": 0.0, "compound": -0.4019 }
+  },
+  {
+    "textData": "Millions of Indian kids have been out of school for 18 months. The break threatens decades of progress.",
+    "analysis": { "neg": 0.121, "neu": 0.748, "pos": 0.131, "compound": 0.0516 }
+  },
+  {
+    "textData": "Romanian billionaire dies when his private plane crashes near Milan",
+    "analysis": { "neg": 0.0, "neu": 1.0, "pos": 0.0, "compound": 0.0 }
+  },
+  {
+    "textData": "Oman braces for historic landfall from Tropical Cyclone Shaheen",
+    "analysis": { "neg": 0.0, "neu": 1.0, "pos": 0.0, "compound": 0.0 }
+  },
+  {
+    "textData": "Missouri is slated to execute prisoner despite claims he has intellectual disability",
+    "analysis": {
+      "neg": 0.208,
+      "neu": 0.595,
+      "pos": 0.196,
+      "compound": -0.0516
+    }
+  },
+  {
+    "textData": "A mother and son helped steal a laptop from Pelosi\u2019s office on Jan. 6, feds say. They have now been charged.",
+    "analysis": { "neg": 0.227, "neu": 0.773, "pos": 0.0, "compound": -0.6124 }
+  },
+  {
+    "textData": "Their interracial romance ended painfully after college. They reunited 42 years later \u2014 and now live together.",
+    "analysis": { "neg": 0.162, "neu": 0.667, "pos": 0.171, "compound": 0.0516 }
+  },
+  {
+    "textData": "More community colleges are mandating coronavirus vaccination",
+    "analysis": { "neg": 0.0, "neu": 1.0, "pos": 0.0, "compound": 0.0 }
+  },
+  {
+    "textData": "Two TV reporters suspended after they wore Afro-like wigs live on the air",
+    "analysis": { "neg": 0.205, "neu": 0.795, "pos": 0.0, "compound": -0.4767 }
+  },
+  {
+    "textData": "Emergency cyber rules lay out \u2018urgently needed\u2019 regulations for pipelines but draw mixed reviews",
+    "analysis": { "neg": 0.122, "neu": 0.878, "pos": 0.0, "compound": -0.2023 }
+  },
+  {
+    "textData": "Oil spill threatens Southern California wildlife, closes beaches as Coast Guard investigates",
+    "analysis": { "neg": 0.191, "neu": 0.809, "pos": 0.0, "compound": -0.3818 }
+  },
+  {
+    "textData": "VA hospital nurse charged with stealing and selling covid vaccination cards",
+    "analysis": { "neg": 0.379, "neu": 0.621, "pos": 0.0, "compound": -0.6705 }
+  },
+  {
+    "textData": "Ships waiting to unload, truckers overworked, rail yards clogged: Inside nation\u2019s broken supply chain",
+    "analysis": { "neg": 0.193, "neu": 0.807, "pos": 0.0, "compound": -0.4767 }
+  },
+  {
+    "textData": "Pandemic jobless benefits are gone. Where does that leave many Americans?",
+    "analysis": { "neg": 0.094, "neu": 0.703, "pos": 0.203, "compound": 0.34 }
+  },
+  {
+    "textData": "TSA lowers fee for PreCheck renewals by $15",
+    "analysis": { "neg": 0.176, "neu": 0.824, "pos": 0.0, "compound": -0.128 }
+  },
+  {
+    "textData": "Crypto tax: \u2018MiamiCoin\u2019 has made the city $7 million so far, a potential game-changer for revenue collection",
+    "analysis": { "neg": 0.0, "neu": 1.0, "pos": 0.0, "compound": 0.0 }
+  },
+  {
+    "textData": "Back in the classroom, teachers are finding pandemic tech has changed their jobs forever",
+    "analysis": { "neg": 0.0, "neu": 1.0, "pos": 0.0, "compound": 0.0 }
+  },
+  {
+    "textData": "How Big Tech monopoly made smart speakers dumber",
+    "analysis": { "neg": 0.223, "neu": 0.536, "pos": 0.241, "compound": 0.0516 }
+  },
+  {
+    "textData": "Meet the Facebook whistleblower, Frances Haugen. Here\u2019s what we know about her.",
+    "analysis": { "neg": 0.0, "neu": 1.0, "pos": 0.0, "compound": 0.0 }
+  },
+  {
+    "textData": "Hundreds of Va. health-care workers fired or suspended over\u00a0 vaccine mandate",
+    "analysis": { "neg": 0.427, "neu": 0.573, "pos": 0.0, "compound": -0.7717 }
+  },
+  {
+    "textData": "Prince George\u2019s firefighter killed in shooting near Nationals Park",
+    "analysis": { "neg": 0.36, "neu": 0.64, "pos": 0.0, "compound": -0.6705 }
+  },
+  {
+    "textData": "The pandemic couldn\u2019t knock down this decades-old dominoes game",
+    "analysis": { "neg": 0.0, "neu": 1.0, "pos": 0.0, "compound": 0.0 }
+  },
+  {
+    "textData": "Baltimore transit equity study spotlights racial disparities around neighborhoods",
+    "analysis": { "neg": 0.0, "neu": 1.0, "pos": 0.0, "compound": 0.0 }
+  },
+  {
+    "textData": "So you think you can sew: My experience with a needle is somewhat patchy.",
+    "analysis": { "neg": 0.0, "neu": 1.0, "pos": 0.0, "compound": 0.0 }
+  },
+  {
+    "textData": "D.C.-area forecast: A humid, sometimes showery week, as crisp fall weather takes a pause",
+    "analysis": { "neg": 0.0, "neu": 1.0, "pos": 0.0, "compound": 0.0 }
+  },
+  {
+    "textData": "Known coronavirus deaths and cases per 100,000",
+    "analysis": { "neg": 0.0, "neu": 1.0, "pos": 0.0, "compound": 0.0 }
+  },
+  {
+    "textData": "Tom Sietsema\u2019s fall dining guide Top 10 countdown: Reveler\u2019s Hour is No. 2",
+    "analysis": {
+      "neg": 0.157,
+      "neu": 0.714,
+      "pos": 0.129,
+      "compound": -0.1027
+    }
+  },
+  {
+    "textData": "Cocineros in Hyattsville breaks the mold for pan-Latin restaurants",
+    "analysis": { "neg": 0.0, "neu": 1.0, "pos": 0.0, "compound": 0.0 }
+  },
+  {
+    "textData": "How Tashira Halyard of Politics and Fashion would spend a perfect day in D.C.",
+    "analysis": { "neg": 0.0, "neu": 0.764, "pos": 0.236, "compound": 0.5719 }
+  },
+  {
+    "textData": "Remodeling your home? Here are seven ways to pay for it.",
+    "analysis": { "neg": 0.123, "neu": 0.877, "pos": 0.0, "compound": -0.1027 }
+  },
+  {
+    "textData": "How to finance solar panels and evaluate their tax benefits and energy savings",
+    "analysis": { "neg": 0.0, "neu": 0.701, "pos": 0.299, "compound": 0.5719 }
+  },
+  {
+    "textData": "Two-bedroom, one-bathroom condo in Springfield, Va., lists for $280,000",
+    "analysis": { "neg": 0.0, "neu": 1.0, "pos": 0.0, "compound": 0.0 }
+  },
+  {
+    "textData": "The Big Number: Number of states with residents facing obesity rises from 9 to 16",
+    "analysis": { "neg": 0.0, "neu": 0.822, "pos": 0.178, "compound": 0.1531 }
+  },
+  {
+    "textData": "So you want to give acupuncture a try. How do you pick a provider?",
+    "analysis": { "neg": 0.0, "neu": 0.875, "pos": 0.125, "compound": 0.1477 }
+  },
+  {
+    "textData": "Biden officials restore penalties for killing birds, reversing Trump",
+    "analysis": {
+      "neg": 0.324,
+      "neu": 0.515,
+      "pos": 0.162,
+      "compound": -0.4939
+    }
+  },
+  {
+    "textData": "European spacecraft reveals rare images of Mercury\u2019s craters after \u2018flawless\u2019 flyby",
+    "analysis": { "neg": 0.0, "neu": 1.0, "pos": 0.0, "compound": 0.0 }
+  },
+  {
+    "textData": "Taylor Heinicke is making people believe, but down in Georgia there\u2019s no need for convincing",
+    "analysis": { "neg": 0.145, "neu": 0.672, "pos": 0.183, "compound": 0.1901 }
+  },
+  {
+    "textData": "Four takeaways from Washington\u2019s 34-30 win over the Falcons",
+    "analysis": { "neg": 0.0, "neu": 0.678, "pos": 0.322, "compound": 0.5859 }
+  },
+  {
+    "textData": "In his return to New England, Tom Brady adds to the Patriots\u2019 early-season woes",
+    "analysis": { "neg": 0.182, "neu": 0.818, "pos": 0.0, "compound": -0.4404 }
+  },
+  {
+    "textData": "What to know from NFL Week 4: Bill Belichick should\u2019ve gone for it against Tom Brady\u2019s Buccaneers",
+    "analysis": { "neg": 0.0, "neu": 1.0, "pos": 0.0, "compound": 0.0 }
+  },
+  {
+    "textData": "Ryan Zimmerman feels the love as the Nationals close their season by looking to the future",
+    "analysis": { "neg": 0.0, "neu": 0.781, "pos": 0.219, "compound": 0.6369 }
+  },
+  {
+    "textData": "Hendrix Lapierre, previously a long shot to crack the Caps\u2019 lineup, has dazzled in the preseason",
+    "analysis": { "neg": 0.0, "neu": 1.0, "pos": 0.0, "compound": 0.0 }
+  },
+  {
+    "textData": "Andrew Wiggins gets vaccinated, can play in home games for Warriors",
+    "analysis": { "neg": 0.0, "neu": 0.806, "pos": 0.194, "compound": 0.34 }
+  },
+  {
+    "textData": "The MLB postseason starts tomorrow. Here's what you need to know.",
+    "analysis": { "neg": 0.0, "neu": 1.0, "pos": 0.0, "compound": 0.0 }
+  },
+  {
+    "textData": "Can friendships based on arranged marriage principles work? This group tried it.",
+    "analysis": { "neg": 0.0, "neu": 0.809, "pos": 0.191, "compound": 0.3818 }
+  },
+  {
+    "textData": "How to finance solar panels and evaluate their tax benefits and energy savings",
+    "analysis": { "neg": 0.0, "neu": 0.701, "pos": 0.299, "compound": 0.5719 }
+  },
+  {
+    "textData": "Remodeling your home? Here are seven ways to pay for it.",
+    "analysis": { "neg": 0.123, "neu": 0.877, "pos": 0.0, "compound": -0.1027 }
+  },
+  {
+    "textData": "Carolyn Hax: Daughter who just came out is worried about \u2018old-fashioned\u2019 grandparents\u2019 reaction",
+    "analysis": { "neg": 0.155, "neu": 0.845, "pos": 0.0, "compound": -0.296 }
+  },
+  {
+    "textData": "Ask Amy: Political views threaten to divide reconnected friends",
+    "analysis": { "neg": 0.205, "neu": 0.551, "pos": 0.244, "compound": 0.128 }
+  },
+  {
+    "textData": "Miss Manners: Part-time professor\u2019s students show insufficient deference",
+    "analysis": { "neg": 0.186, "neu": 0.814, "pos": 0.0, "compound": -0.1531 }
+  },
+  {
+    "textData": "These women marched for the right to abortion before Roe v. Wade. Now, they\u2019re doing it again.",
+    "analysis": { "neg": 0.0, "neu": 1.0, "pos": 0.0, "compound": 0.0 }
+  },
+  {
+    "textData": "\u2018How much do you make?\u2019: Here\u2019s how to start conversations about pay with friends, co-workers and your manager",
+    "analysis": { "neg": 0.068, "neu": 0.78, "pos": 0.151, "compound": 0.4019 }
+  },
+  {
+    "textData": "She\u2019d never been to a Women\u2019s March. Then Texas banned almost all abortions.",
+    "analysis": { "neg": 0.214, "neu": 0.786, "pos": 0.0, "compound": -0.4588 }
+  },
+  {
+    "textData": "\u2018I was Patient Zero\u2019: In new film, Monica Lewinsky recalls the devastation caused by public shaming",
+    "analysis": { "neg": 0.157, "neu": 0.843, "pos": 0.0, "compound": -0.4215 }
+  },
+  {
+    "textData": "\u2018Squid Game\u2019 is worth the hype \u2014 and much deeper than its chilling violence",
+    "analysis": {
+      "neg": 0.304,
+      "neu": 0.585,
+      "pos": 0.111,
+      "compound": -0.5106
+    }
+  },
+  {
+    "textData": "\u2018Six\u2019 is the pulse-quickening pleasure trove that Broadway has been waiting for",
+    "analysis": { "neg": 0.0, "neu": 0.748, "pos": 0.252, "compound": 0.5719 }
+  },
+  {
+    "textData": "Artist Barbara Kruger is still right about everything. Let\u2019s listen up.",
+    "analysis": { "neg": 0.0, "neu": 1.0, "pos": 0.0, "compound": 0.0 }
+  },
+  {
+    "textData": "\u2018Happy to see you here\u2019: The peace and joy of Blackness on Martha\u2019s Vineyard",
+    "analysis": { "neg": 0.0, "neu": 0.622, "pos": 0.378, "compound": 0.8074 }
+  },
+  {
+    "textData": "\u2018Venom: Let There Be Carnage\u2019 is just what you\u2019d expect \u2014 and exactly what you want: Dumb fun",
+    "analysis": { "neg": 0.151, "neu": 0.639, "pos": 0.21, "compound": 0.0772 }
+  },
+  {
+    "textData": "Anthony Bourdain\u2019s messy, brilliant life comes into focus in a new oral biography",
+    "analysis": { "neg": 0.153, "neu": 0.613, "pos": 0.233, "compound": 0.3182 }
+  },
+  {
+    "textData": "In the galleries: Probing our relationships with living systems",
+    "analysis": { "neg": 0.0, "neu": 1.0, "pos": 0.0, "compound": 0.0 }
+  },
+  {
+    "textData": "How to use your Instant Pot in 5 ways you might not have thought about",
+    "analysis": { "neg": 0.0, "neu": 1.0, "pos": 0.0, "compound": 0.0 }
+  },
+  {
+    "textData": "Tom Sietsema\u2019s fall dining guide Top 10 countdown: Reveler\u2019s Hour is No. 2",
+    "analysis": {
+      "neg": 0.157,
+      "neu": 0.714,
+      "pos": 0.129,
+      "compound": -0.1027
+    }
+  },
+  {
+    "textData": "Cocineros in Hyattsville breaks the mold for pan-Latin restaurants",
+    "analysis": { "neg": 0.0, "neu": 1.0, "pos": 0.0, "compound": 0.0 }
+  },
+  {
+    "textData": "Quick-cooking freekeh, snap peas and mushrooms make a hearty grain salad",
+    "analysis": { "neg": 0.0, "neu": 1.0, "pos": 0.0, "compound": 0.0 }
+  },
+  {
+    "textData": "Disney World is celebrating turning 50. Will covid rain on the parade?",
+    "analysis": { "neg": 0.0, "neu": 0.748, "pos": 0.252, "compound": 0.5719 }
+  },
+  {
+    "textData": "\u2018These are our ancestors\u2019: Descendants of enslaved people are shifting plantation tourism",
+    "analysis": { "neg": 0.197, "neu": 0.803, "pos": 0.0, "compound": -0.4019 }
+  },
+  {
+    "textData": "Looking to dodge Amsterdam\u2019s crowds? There are three remarkable towns a short train ride away.",
+    "analysis": { "neg": 0.0, "neu": 0.783, "pos": 0.217, "compound": 0.5574 }
+  },
+  {
+    "textData": "In southeastern France, touring the village where Marc Chagall found inspiration",
+    "analysis": { "neg": 0.0, "neu": 0.746, "pos": 0.254, "compound": 0.5267 }
+  }
+]

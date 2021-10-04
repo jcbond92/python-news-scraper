@@ -1,23 +1,53 @@
 import requests
 from bs4 import BeautifulSoup
+import json
+import nltk
+from nltk.sentiment import SentimentIntensityAnalyzer
+
+nltk.download('vader_lexicon')
+
+sia = SentimentIntensityAnalyzer()
 
 
-def scrapeNewsHeadline(url):
+def scrapeText(config):
+    data = []
+    print(config['name'])
+
     response = requests.get(
-        url='https://www.' + url,
+        url=config['url'],
     )
 
     soup = BeautifulSoup(response.content, 'html.parser')
 
-    mainHeadlines = soup.select('h2')
-    for mainHeadline in mainHeadlines:
-        print(mainHeadline.text.strip())
+    textItems = soup.select(config['cssSelector'])
+    for textItem in textItems:
+        textData = textItem.text.strip()
+        analysis = sia.polarity_scores(textData)
+        text = {
+            "textData": textData,
+            "analysis": analysis
+        }
+        data.append(text)
 
-    subHeadlines = soup.select('h3')
-    for subHeadline in subHeadlines:
-        print(subHeadline.text.strip())
+    fileName = config['name'] + '.json'
+
+    with open(fileName, 'w') as outfile:
+        json.dump(data, outfile)
 
 
-sites = ["nytimes.com", "washingtonpost.com"]
-for site in sites:
-    scrapeNewsHeadline(site)
+# add more pages here
+pages = [
+    {
+        "url": "https://www.washingtonpost.com",
+        "name": "wash-post-homepage-headlines",
+        "cssSelector": "h2"
+    },
+    {
+        "url": "https://www.washingtonpost.com/us-policy/2021/10/04/biden-schumer-debt-ceiling/",
+        "name": "wash-post-debt-ceiling",
+        "cssSelector": "section"
+    }
+]
+
+for page in pages:
+    scrapeText(page)

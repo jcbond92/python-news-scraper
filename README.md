@@ -1,6 +1,6 @@
 # Python News Scraper
 
-A simple python scraper that grabs all of the `h2` and `h3` headlines off of news sites.
+A simple python scraper that grabs text off of news sites for sentiment analysis.
 
 ## Running the script
 
